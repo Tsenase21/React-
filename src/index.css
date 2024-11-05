@@ -139,7 +139,8 @@ nav ul li button:hover {
   padding: 10px;
   border: 1px solid #ddd;
   text-align: left;
-  color: #4CAF50;
+  color: #0b690f;
+  background-color: #ccc;
 }
 
 .dash tr:nth-child(even) {
